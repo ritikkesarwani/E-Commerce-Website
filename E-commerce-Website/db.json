@@ -1,0 +1,106 @@
+{
+  "seller": [
+    {
+      "id": "1",
+      "name": "Ritik kesarwani",
+      "password": "1024",
+      "email": "hey@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Rahul kesarwani",
+      "password": "1024",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "edf2",
+      "name": "Shubha yadav",
+      "password": "12345",
+      "email": "shubha@gmail.com"
+    },
+    {
+      "id": "995b",
+      "name": "Shubha yadav",
+      "password": "12345",
+      "email": "shubha@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "riya kesarwani",
+      "password": "1024",
+      "email": "riya@gmail.com"
+    },
+    {
+      "id": "0b06",
+      "name": "shyam kesarwani",
+      "password": "1024",
+      "email": "shyam@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Mohan kesarwani",
+      "password": "1024",
+      "email": "shyam@gmail.com"
+    },
+    {
+      "id": "5ca8",
+      "name": "aman kesarwani",
+      "password": "1024",
+      "email": "aman34@gmail.com"
+    },
+    {
+      "id": "bf66",
+      "name": "suman kesarwani",
+      "password": "1024",
+      "email": "aman34@gmail.com"
+    },
+    {
+      "id": "ebff",
+      "name": "hrithik",
+      "email": "hrithik@gmail.com",
+      "password": "1232"
+    },
+    {
+      "id": "10e8",
+      "name": "hey",
+      "password": "1234",
+      "email": "124141"
+    },
+    {
+      "id": "0d13",
+      "name": "Ritik Kesarwani",
+      "password": "dscs",
+      "email": "dwfef"
+    },
+    {
+      "id": "e3d6",
+      "name": "hey ther",
+      "password": "12345",
+      "email": "hey@test.com"
+    },
+    {
+      "id": "a686",
+      "name": "peter",
+      "password": "2342",
+      "email": "Peter@test.com"
+    },
+    {
+      "id": "08a2",
+      "name": "abc",
+      "password": "1234",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "b0e1",
+      "name": "abc",
+      "password": "1234",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "8fdd",
+      "name": "abc",
+      "password": "1234",
+      "email": "abc@gmail.com"
+    }
+  ]
+}

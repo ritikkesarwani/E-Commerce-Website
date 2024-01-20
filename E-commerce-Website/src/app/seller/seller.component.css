@@ -1,0 +1,63 @@
+.seller-auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+}
+
+.sign-up {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 35rem;
+    
+}
+
+.sign-up h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500;
+    color: rgba(0,0,0,0.9);
+}
+
+
+.common-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.common-form input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.common-form button {
+    background-color: #0a66c2;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.common-form button:hover {
+    background-color: #0a66c2;
+}
+
+.auth-toggle-line{
+    margin-top: 20px;
+    color: black;
+    font-size: 14px;
+    text-align: center;
+    font-size:medium;
+    cursor: pointer;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}

@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8f8f8;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav h1 {
+    color: #0a66c2;
+    margin: 0;
+    font-size: 32px;
+}
+
+.nav .nav-search {
+    flex: 1;
+    display: flex;
+    margin-left: 30px;
+}
+
+.nav .nav-search input {
+    flex: 1;
+    color: #0a66c2;
+    border: 2px solid #0a66c2;
+    border-radius: 5px;
+    padding: 8px; /* Adjusted padding */
+    max-width: 80rem; /* Adjusted input width */
+}
+
+.nav .nav-search button {
+    color: #fff;
+    background-color: #0a66c2;
+    border: 1px solid #0a66c2;
+    height: 39px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+ul li {
+    padding: 15px;
+}
+
+ul a {
+    text-decoration: none;
+    color: #0a66c2;
+    cursor: pointer;
+}
+
+/* Add your other styles here */
+
+.suggested-search {
+    position: absolute;
+    top: 40px;
+    z-index: 10;
+    display: none;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    width: 200px;
+}
+
+.suggested-search li {
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+.suggested-search li a {
+    cursor: pointer;
+    color: #0a66c2;
+    text-decoration: none;
+}
+
+.btn{
+    width: 15rem;
+    margin-left: 5px;
+    font-size: medium;
+}
+
+a{
+    text-decoration: none;
+    color: #0a66c2;
+}
