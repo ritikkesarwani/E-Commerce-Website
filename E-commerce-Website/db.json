@@ -102,5 +102,24 @@
       "password": "1234",
       "email": "abc@gmail.com"
     }
+  ],
+  "products": [
+    {
+      "id": "42e5",
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobiles",
+      "color": "black",
+      "image": "",
+      "description": "hello users"
+    },
+    {
+      "id": "efa2",
+      "email": "Samsung m40",
+      "price": "10000",
+      "color": "black",
+      "category": "samsung m40",
+      "description": "https://vlebazaar.in/image/cache/catalog/B07HGJKDRR/Samsung-Galaxy-M40-Midnight-Blue-6GB-RAM-128GB-Storage-B07HGJKDRR-2000x2000h.jpg"
+    }
   ]
 }

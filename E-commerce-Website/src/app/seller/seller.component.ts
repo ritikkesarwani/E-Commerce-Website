@@ -31,7 +31,6 @@ export class SellerComponent {
    this.seller.userLogin(data);
    this.seller.isLoginError.subscribe((isError)=>{
     if(isError){
-      console.log(this.toastr)
       this.toastr.warning('This is a warning message', 'Warning');
     }
    })
